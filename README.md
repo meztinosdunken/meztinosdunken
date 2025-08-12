@@ -1,20 +1,20 @@
-![agile-methodology development](https://media3.giphy.com/media/v1.Y2lkPTdiYzJhNDkwc3p4bGdsOW01NWp4dDZyb29nNG1xd3Ztdjd5N2QzZGpnZ3pscGI0cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yyOGSYnsJt4QM/giphy.gif)
-
 # Introduction
-Hello! I'm meztinosdunken, a dedicated software developer with experience in various programming languages and frameworks. I love creating efficient and scalable solutions.
+Hello! I'm **meztinosdunken**, a passionate developer who loves tackling challenges and building efficient solutions. Always eager to learn and collaborate!
 
 # Skills
-- Languages: JavaScript, Python, Java
-- Frameworks: React, Node.js, Django
-- Tools: Git, Docker, AWS
-- Databases: MySQL, MongoDB
+- 🌐 Web Development (HTML, CSS, JavaScript)
+- 🐍 Python & Django
+- ☁️ Cloud Computing (AWS, Azure)
+- 📊 Data Analysis (Pandas, NumPy)
+- ⚙️ DevOps (Docker, CI/CD)
 
 # Projects
-- **Project A**: A web application for task management using React and Node.js.
-- **Project B**: An API for data processing built with Python and Flask.
-- **Project C**: A mobile app for fitness tracking developed using React Native.
+- **Project A**: A web application that solves XYZ problem using modern technologies.
+- **Project B**: An open-source tool for ABC functionality, available on [GitHub](https://github.com/meztinosdunken/project-b).
+- **Project C**: A data analysis project that provides insights into DEF dataset.
 
 # Contacts
-Feel free to reach out to me:
-- Email: meztinosdunken@example.com
-- LinkedIn: [linkedin.com/in/meztinosdunken](https://linkedin.com/in/meztinosdunken)
+Feel free to reach out!
+- 📧 Email: meztinosdunken@example.com
+- 🌐 Website: [meztinosdunken.com](https://meztinosdunken.com)
+- 🔗 LinkedIn: [linkedin.com/in/meztinosdunken](https://linkedin.com/in/meztinosdunken)
